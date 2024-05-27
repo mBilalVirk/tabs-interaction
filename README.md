@@ -2,4 +2,4 @@
 
 # Demo
 
-Visit the website Chunk: [](https://tabs-interaction.netlify.app/)
+Visit the website: [Tabs Platform](https://tabs-interaction.netlify.app/)
